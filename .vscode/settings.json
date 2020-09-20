@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/cloud_user/.local/share/virtualenvs/bexport-Q3531ROl/bin/python",
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
+}
